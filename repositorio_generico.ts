@@ -37,7 +37,7 @@ const repoUsuarios = new Repositorio<Usuario>();
 
 repoUsuarios.agregar({ id: 1, nombre: "Valentina", rol: "Admin" });
 repoUsuarios.agregar({ id: 2, nombre: "Samuel", rol: "Developer" });
-repoUsuarios.agregar({ id: 3, nombre: "Isabella", rol: "QA" });
+repoUsuarios.agregar({ id: 3, nombre: "Isabellag", rol: "QA" });
 
 console.log("\n--- Buscando ID 2 ---");
 const usuarioBuscado = repoUsuarios.buscarPorId(2);

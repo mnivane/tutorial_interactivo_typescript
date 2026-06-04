@@ -1,4 +1,4 @@
-# 🚀 TypeScript: Guía Práctica de Fundamentos y POO
+# TypeScript: Guía Práctica de Fundamentos y POO
 
 Este repositorio contiene la resolución de los **40 retos prácticos** propuestos en la *Guía del Estudiante: Tutorial TypeScript Paso a Paso*. 
 
@@ -6,7 +6,7 @@ El proyecto está diseñado para aprender y consolidar las bases del lenguaje me
 
 ---
 
-## 📋 Estructura de los Retos
+## Estructura de los Retos
 
 Los ejercicios están organizados según los bloques principales de la guía:
 
@@ -18,7 +18,7 @@ Los ejercicios están organizados según los bloques principales de la guía:
 
 ---
 
-## 💻 Cómo Ejecutar los Archivos
+## ¿Cómo Ejecutar los Archivos?
 
 Para correr cualquiera de los retos directamente en la terminal con **Bun**, usa el siguiente comando:
 
